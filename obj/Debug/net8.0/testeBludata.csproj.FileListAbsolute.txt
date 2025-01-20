@@ -1,0 +1,28 @@
+C:\Users\emyll\Desktop\Bludata\testeBludata\bin\Debug\net8.0\testeBludata.exe
+C:\Users\emyll\Desktop\Bludata\testeBludata\bin\Debug\net8.0\testeBludata.deps.json
+C:\Users\emyll\Desktop\Bludata\testeBludata\bin\Debug\net8.0\testeBludata.runtimeconfig.json
+C:\Users\emyll\Desktop\Bludata\testeBludata\bin\Debug\net8.0\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata\testeBludata\bin\Debug\net8.0\testeBludata.pdb
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.AssemblyInfoInputs.cache
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.AssemblyInfo.cs
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.csproj.CoreCompileInputs.cache
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\refint\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.pdb
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\testeBludata.genruntimeconfig.cache
+C:\Users\emyll\Desktop\Bludata\testeBludata\obj\Debug\net8.0\ref\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\bin\Debug\net8.0\testeBludata.exe
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\bin\Debug\net8.0\testeBludata.deps.json
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\bin\Debug\net8.0\testeBludata.runtimeconfig.json
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\bin\Debug\net8.0\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\bin\Debug\net8.0\testeBludata.pdb
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.AssemblyInfoInputs.cache
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.AssemblyInfo.cs
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.csproj.CoreCompileInputs.cache
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\refint\testeBludata.dll
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.pdb
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\testeBludata.genruntimeconfig.cache
+C:\Users\emyll\Desktop\Bludata - C#\testeBludata\obj\Debug\net8.0\ref\testeBludata.dll
